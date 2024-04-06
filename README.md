@@ -36,22 +36,22 @@ WanderVerse is a platform designed to connect travelers with unique and memorabl
 Link: https://wanderverse.onrender.com/listings
 
 Home page: 
-<img src="" alt="home" />
+<img src="assets/home_wander.png" alt="home" />
 
 Filter by category: 
-<img src="" alt="filter" />
+<img src="assets/filter.png" alt="filter" />
 
 View Accomodations:
-<img src="" alt="filter" />
+<img src="assets/view.png" alt="filter" />
 
 Review Accomodations: 
-<img src="" alt="filter" />
+<img src="assets/review.png" alt="filter" />
 
 Edit your Listing:
-<img src="" alt="filter" />
+<img src="assets/edit.png" alt="filter" />
 
 Locate the place on map:
-<img src="" alt="filter" />
+<img src="assets/map.png" alt="filter" />
 
 ## Contact
 
